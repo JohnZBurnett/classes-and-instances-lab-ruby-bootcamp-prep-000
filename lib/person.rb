@@ -1,4 +1,4 @@
-class PERSON
+class Person
 end
 
 adele_goldberg = PERSON.new
